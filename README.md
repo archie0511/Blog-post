@@ -5,6 +5,13 @@ update, delete different posts, with an authentication
 system. Users have their own profile page where they can
 update their profile picture, username.
 
+## Deployment
+
+You can view this project by clicking on the link below
+```
+https://blog-webpage-heroku.herokuapp.com/
+
+
 ## Run Locally
 
 Clone the project
